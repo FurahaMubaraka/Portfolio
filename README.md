@@ -2,6 +2,8 @@
 
 I'm Furaha Mubaraka, a passionate software developer interested in both frontend and backend technologies.
 
+Link: https://furahamubaraka.github.io/Portfolio/
+
 ## About Me
 
 - 🌱 I'm currently freelancing and working on exciting projects.
